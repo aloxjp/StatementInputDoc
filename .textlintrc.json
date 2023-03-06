@@ -1,0 +1,20 @@
+{
+  "plugins": {},
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "period-in-list-item": true,
+    "ja-no-mixed-period": true,
+    "ja-no-redundant-expression": true,
+    "ja-no-weak-phrase": true,
+    "ja-unnatural-alphabet": true,
+    "no-double-negative-ja": true,
+    "no-doubled-joshi": true,
+    "no-dropping-the-ra": true,
+    "no-hankaku-kana": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true
+  }
+}
