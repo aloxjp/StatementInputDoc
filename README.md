@@ -1,19 +1,15 @@
-# Document Template
+# 決算書入力Webドキュメント
 
 ## Overview
 
-Markdownで技術文章を記載する際のテンプレートです。
-textlintによる文章校正を導入しており、理解しやすい文章の作成を支援します。
+決算書入力Webの仕様、マニュアル等のドキュメントを管理するリポジトリです。
 
 ## Requirement
 
-- Node.js
-
-VSCode等のエディタで使用する場合、拡張機能の利用を推奨します。
+textlintを使用しているため、Node.jsが必要です。
 
 ## Install
 
-1. [このリンク](https://github.com/masokamoto/DocumentTemplate/generate)からリポジトリを作成する
 1. npmパッケージをインストールする
    ```cmd
    npm install
